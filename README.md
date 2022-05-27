@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T20kolat
 - 👀 I’m interested in ... Game Development, Programming, Innovative projects
-- 🌱 I’m currently learning ... C#, Unity, .ASP/.NET development, HTML/CSS + JavaScript
+- 🌱 I’m currently learning ... C#, Unity, Unreal Engine 5, Blueprints / C++, Game development
 - 💞️ I’m looking to collaborate on ... Game projects / Other interesting software development
 - 📫 How to reach me ... laasasenaholassi@gmail.com
 
