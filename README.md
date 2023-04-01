@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @T20kolat
+- 👋 Hi, I’m Lassi, gamer and a programmer with experience from Unity, C#, .NET, Azure and DevOps!
 - 👀 I’m interested in ... Game Development, Programming, Innovative projects
-- 🌱 I’m currently learning ... C#, MVC, ASP.NET CORE 6, API, Azure DevOps, Game Development
+- 🌱 I’m currently learning ... C++, Unreal Engine 5
 - 💞️ I’m looking to collaborate on ... Game projects / Other interesting software development
 - 📫 How to reach me ... laasasenaholassi@gmail.com
 
