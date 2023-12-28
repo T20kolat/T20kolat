@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lassi, gamer and a programmer with experience from Unity, C#, .NET, Azure and DevOps!
 - 👀 I’m interested in ... Game Development, Programming, Innovative projects
-- 🌱 I’m currently learning ... Game Development with Unity and C#
+- 🌱 I’m currently learning ... Game Development with Unreal Engine 5 and C++ / Blueprints
 - 💞️ I’m looking to collaborate on ... Game projects / Other interesting software development
 - 📫 How to reach me ... laasasenaholassi@gmail.com
 
