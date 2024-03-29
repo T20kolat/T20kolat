@@ -1,3 +1,6 @@
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=T20kolat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
 - 👋 Hi, I’m Lassi, gamer and a programmer with experience from Unity, C#, .NET, Azure and DevOps!
 - 👀 I’m interested in Game Dev, Website & Application development
 - 🌱 I’m currently focusing on learning how to use MERN stack in web development, also as hobby learning how to use Unreal Engine 5 on spare time
