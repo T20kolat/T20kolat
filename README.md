@@ -5,7 +5,8 @@
 - 🌱 I’m currently focusing on learning how to use MERN stack in web development, also as hobby learning how to use Unreal Engine 5 on spare time
 - 💞️ I’m looking to collaborate on innovative software development projects, app development 
 - 📫 How to reach me laasasenaholassi@gmail.com
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=T20kolat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T20kolat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 T20kolat/T20kolat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
