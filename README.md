@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Lassi, gamer and a programmer with experience from Unity, C#, .NET, Azure and DevOps!
 - 👀 I’m interested in Game Dev, Website & Application development
-- 🌱 I’m currently focusing on learning how to use MERN stack in web development, also as hobby learning how to use Unreal Engine 5 on spare time
+- 🌱 I’m currently focusing on growing my knowledge and expertise on C#, .NET and ASP.NET Core application development
 - 💞️ I’m looking to collaborate on innovative software development projects, app development 
 - 📫 How to reach me laasasenaholassi@gmail.com
 
