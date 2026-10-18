@@ -1,9 +1,9 @@
 
 
 - 👋 Hi my name is Lassi, I’m a gamer and a programmer!
-- 
+  
 - 👀 I’m interested in Game Development and Software Engineering in general.
-- 
+  
 - 🌱 I’m currently focusing on learning how to use Unreal Engine and C++ to develop games. At this moment I am learning and pushing through Tom Looman's UE5 & C++ course.
 
 <!---
